@@ -23,3 +23,7 @@ CLAUDE.MD
 .vscode/
 .idea/
 *.log
+
+# Runtime data written by the backend
+backend/data/cards/
+backend/data/portfolio.json
